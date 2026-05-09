@@ -43,6 +43,7 @@ The dashboard helps HR teams and business stakeholders:
 ## Dashboard Pages
 
 ### Page 1 — Executive Overview
+
 - Total Employees
 - Employees Left
 - Attrition Rate
@@ -51,15 +52,20 @@ The dashboard helps HR teams and business stakeholders:
 - Salary Slab Analysis
 - Overtime Analysis
 - Work-Life Balance Analysis
-  
+
+![Dashboard Page 1](screenshots/Dashboard%20Page%201.png)
+
+---
 
 ### Page 2 — Employee Behavior Analysis
+
 - Job Satisfaction Analysis
 - Environment Satisfaction Analysis
 - Promotion Analysis
 - Tenure Analysis
 - Business Travel Analysis
 
+![Dashboard Page 2](screenshots/Dashboard%20Page%202.png)
 ---
 
 ## Key Business Insights
